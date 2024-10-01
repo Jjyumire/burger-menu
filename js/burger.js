@@ -26,3 +26,5 @@ const burgerMaker = () => {
   });
 };
 burgerMaker();
+console.log("SUCCES")
+
